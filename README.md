@@ -231,7 +231,7 @@ sentinels-disaster-ai/
   </tr>
   <tr>
     <td style="padding:8px 0;"><b>📝 Write-up</b></td>
-    <td><a href="https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764132948439">View Writeup</a></td>
+    <td><a href="https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/sentinels-AI-powered-multimodal-disaster-Agent">View Writeup</a></td>
   </tr>
 </table>
 </div>
