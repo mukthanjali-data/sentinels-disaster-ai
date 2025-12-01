@@ -196,7 +196,7 @@ sentinels-disaster-ai/
 ✔ Multimodal Reasoning
 
 ✔ Emergency Coordination
-## 🙎‍♀️ Author Information
+## Author Information
 <span style="display:none;"></span>
 <div style="
     background:white;
