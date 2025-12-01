@@ -175,11 +175,7 @@ sentinels-disaster-ai/
 ├── LICENSE
 └── .gitignore
 
-📊 Kaggle Notebook:
-
-👉 https://www.kaggle.com/code/mukthanjalibonala/sentinels-multimodal-disaster-intelligence-agent
- 
-This includes:
+## 📊 Kaggle Notebook includes:
 
 ✔ severity meter
 
@@ -189,7 +185,7 @@ This includes:
 
 ✔ real-time dashboard
 
-🏆 Competition Track
+## 🏆 Competition Track
 
 ✔ Agents for Good
 
@@ -200,26 +196,60 @@ This includes:
 ✔ Multimodal Reasoning
 
 ✔ Emergency Coordination
+## 🙎‍♀️ Author Information
+<span style="display:none;"></span>
+<div style="
+    background:white;
+    padding:25px;
+    border-radius:18px;
+    border-left:6px solid #0f766e;
+    font-family:Segoe UI, sans-serif;
+    width:85%;
+    margin:auto;
+">
 
-🙎‍♀️ Author Information:
+<table style="width:100%;border-collapse:collapse;font-size:16px;">
+  <tr>
+    <td style="padding:8px 0;"><b> Author</b></td>
+    <td>Mukthanjali Bonala</td>
+  </tr>
+  <tr>
+    <td style="padding:8px 0;"><b>📧 Email</b></td>
+    <td><a href="mailto:mukthanjalibonala@gmail.com">mukthanjalibonala@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td style="padding:8px 0;"><b>💼 LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/mukthanjalibonala/">View Profile</a></td>
+  </tr>
+  <tr>
+    <td style="padding:8px 0;"><b>🌐 GitHub</b></td>
+    <td><a href="https://github.com/mukthanjali-data/sentinels-disaster-ai">Project Repository</a></td>
+  </tr>
+  <tr>
+    <td style="padding:8px 0;"><b>📊 Kaggle</b></td>
+    <td><a href="https://www.kaggle.com/code/mukthanjalibonala/sentinels-multimodal-disaster-intelligence-agent">Live Notebook</a></td>
+  </tr>
+  <tr>
+    <td style="padding:8px 0;"><b>🎥 Demo Video</b></td>
+    <td><a href="https://youtu.be/Ou2-T_-T7xA?si=SKjYtUZmH5XNosJC">View Demo Video</a></td>
+  </tr>
+  <tr>
+    <td style="padding:8px 0;"><b>📝 Write-up</b></td>
+    <td><a href="https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764132948439">View Writeup</a></td>
+  </tr>
+</table>
 
-Name: Mukthanjali Bonala
-  
-E-mail: 📧 mukthanjalibonala@gmail.com
+<p style="margin-top:18px;color:#475569;font-style:italic;text-align:center;">
+Designed with purpose — built with precision, inspired by impact.
+</p>
 
-LinkedIn: https://www.linkedin.com/in/mukthanjalibonala
+</div>
 
-Kaggle Notebook: https://www.kaggle.com/code/mukthanjalibonala/sentinels-multimodal-disaster-intelligence-agent
-
-Project Demo: https://youtu.be/Ou2-T_-T7xA?si=SKjYtUZmH5XNosJC
-
-Writeup Link: https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764132948439
-
-📜 License
+## 📜 License
 
 MIT License – Open Source for Social Good
 
-❤️ Purpose
+## ❤️ Purpose
 
 This project is dedicated to building AI that protects, supports, and saves lives.
 Created with passion, precision, and the mission to use AI for global safety.
