@@ -222,10 +222,6 @@ sentinels-disaster-ai/
     <td><a href="https://www.linkedin.com/in/mukthanjalibonala/">View Profile</a></td>
   </tr>
   <tr>
-    <td style="padding:8px 0;"><b>🌐 GitHub</b></td>
-    <td><a href="https://github.com/mukthanjali-data/sentinels-disaster-ai">Project Repository</a></td>
-  </tr>
-  <tr>
     <td style="padding:8px 0;"><b>📊 Kaggle</b></td>
     <td><a href="https://www.kaggle.com/code/mukthanjalibonala/sentinels-multimodal-disaster-intelligence-agent">Live Notebook</a></td>
   </tr>
@@ -253,4 +249,3 @@ MIT License – Open Source for Social Good
 
 This project is dedicated to building AI that protects, supports, and saves lives.
 Created with passion, precision, and the mission to use AI for global safety.
-
