@@ -234,16 +234,7 @@ sentinels-disaster-ai/
     <td><a href="https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764132948439">View Writeup</a></td>
   </tr>
 </table>
-
-<p style="margin-top:18px;color:#475569;font-style:italic;text-align:center;">
-Designed with purpose — built with precision, inspired by impact.
-</p>
-
 </div>
-
-## 📜 License
-
-MIT License – Open Source for Social Good
 
 ## ❤️ Purpose
 
